@@ -14,3 +14,8 @@
 * [Didar Gelici](didar.gelici@owasp.org)
 * [Andrea Scaduto](andrea.scaduto@owasp.org)
 * [Daniel Ting](daniel.ting@owasp.org)
+
+### Staff Contact
+* [Harold Blankenship](mailto:harold.blankenship@owasp.com)
+
+
